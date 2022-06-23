@@ -1,0 +1,20 @@
+- Text Dataset - Strings - my model cannot understand 
+
+- COnversion of those text to mathematical so that model 
+
+- NLP - m*n - two sentences ( two fomulas) - to derive the features  
+
+- BOw - Bago of words 
+
+- COunt Vectorisers (  Cleans my data , Tokensizes data) 
+
+- Tf - IDF - ( Extract features ) 
+
+- Sent 1- I am good boy - Tokenise - cleaning - good boy 
+- Sent 2 -I am bad boy - Tokensi - clea - bad boy 
+
+Tf = ( no of repeated words in a sentence ) / ( total no of words )
+- IDF 
+
+Classifying - Spam or not
+
